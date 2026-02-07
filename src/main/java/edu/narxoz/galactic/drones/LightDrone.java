@@ -8,6 +8,6 @@ public class LightDrone extends Drone {
 
     @Override
     public double speedKmPerMin() {
-        return 10.0; // быстрее чем HeavyDrone
+        return 10.0;
     }
 }
